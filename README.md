@@ -4,3 +4,4 @@ and again
 now
 please
 Changed in bash
+In a new branch
